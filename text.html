@@ -1,0 +1,198 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <script src= "https://cdn.plot.ly/plotly-latest.min.js"></script>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js'></script>
+
+        <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+        <script nomodule src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
+
+        <link href="text.css" rel="stylesheet" type="text/css"/>
+    
+    </head>
+
+
+    <body>
+
+        <div>
+            <!-- Title and subtitle -->
+            <br><br>
+            <h1 class="change" data-color="white">Why it gets worse <br> before it gets better:</h1>
+
+            <h2>Exploring air pollution- the history and the future</h2>
+        </div>
+            
+        <!-- Image -->
+        <div class= "indiaFog">
+            <figure>
+                <img src= "/assets/indiafog.jpeg" width="1410px">
+                <figcaption>Air pollution in Dehli, India</figcaption>
+            </figure>
+        </div>
+
+
+        <div>
+            <!-- Section 1 -->
+            <h3>Air pollution: a leading risk factor for health</h3>
+
+            <p>Human activity has undeniably had an adverse effect on the environment- industrial activity including the burning of fossil fuels, exhaust from vehicles, emissions from industrial behaviours, construction, demolition, and agriculture have all contributed to climate change and wreaked irreversible destruction on the planet. These activities not only impact environmental health, but also public health, reflected in an increasing mortality rate from air-pollution related morbidities. The cause of these health impacts is particulate matter or PM2.5, which are particles with a diameter of 2.5 micrometres (0.0025 mm) or smaller. Upon inhalation, these particles penetrate the bloodstream, and with prolonged exposure can cause severe cardiovascular and respiratory disease, as well as chronic asthma and increased likelihood of heart attacks and stroke.</p>
+            <p>Thus, air pollution is a leading global environmental risk factor for health, particularly in low and middle income countries, which cite air pollution as their top public health hazard. The problem is most critical in developing countries such as China and India, where there is a greater reliance on solid fuels for cooking, leading to high levels of indoor air pollution that exposes individuals to toxic air in their own homes. Additionally, India and China account for a combined 31.4% of the global manufactoring output (World Economic Forum, 2019), contributing to the worsened environmental and air quality in these countries due to greater industrial activity. </p>
+        </div>
+
+        <div class= "barBox">
+            <div id= 'myBar' style="width:850px; height: 450px;"></div>
+            
+        </div>
+
+        <div>            
+            <p>It is of common belief that continued urbanisation and heavily populated cities will lead to ever-increasing levels of pollution. However, air pollution levels in the wealthiest countries of today are proof that technological and political progress contribute to declining air pollution levels and related deaths, with mortality rates being at their lowest in decades.</p>
+            <p>This trend is what Simon Kuznets described in 1955 as the ‘Environmental Kuznets Curve’ (EKC), which provides a link between economic growth and environmental degradation. It hypothesises that pollution levels will initially rise with the onset of industrialisation, but upon reaching a certain stage of economic development, environmental quality will improve and pollution levels will normalise. Kuznet’s hypothesis can be seen in the graph below, where countries with a low GDP also have a smaller number of mortalities caused by air pollution, and middle-income countries experiencing industrial development have a higher mortality rate. The number of deaths curves downwards once countries reach a higher GDP.</p>
+        </div>
+       
+        <br>
+
+        <!-- Scatterplot drawn inside this DIV -->
+        <div class= "scatterBox">
+            <div id= 'myScatter' style="width:900px; height: 650px;"></div>
+        </div>
+        
+        <br><br><br><br>
+
+        <div>
+            <!-- Section 2 -->
+            <h3>The Environmental Kuznets Curve: Visualised through history</h3>
+
+            <p>Kuznets curve is effectively demonstrated in London’s historical air pollution levels from 1700 to 2016. As Great Britain’s coal industry began to expand during the 18th and 19th centuries, air pollution worsened significantly, causing considerable detriment to the health of the population and contributing to an unprecendented number of air pollution-related deaths. During this period, deaths caused by bronchitis rose from 25 per 100 000 of the population to a staggering 300 per 100 000 just 50 years later- an increase of over 1000%. Extreme, dense fog was also common in this period, and for the equivalent of 3 months a year this phenomenon was so severe that even everyday activity such as rail travel had to be halted.</p>
+
+        </div>
+       
+        <!-- Image -->
+        <div class= "londonFog">
+            <figure>
+                <img src= "/assets/londonfog.jpeg" width="800px">
+                <figcaption>Great Smog of London, 1952</figcaption>
+           </figure>
+        </div>
+
+        <div>
+            <!-- Section 2 cont. -->
+             <p>London’s transition to a more advanced stage of economic development saw the introduction of cleaner energy sources such as gas, as well as government-imposed environmental regulations that contributed to a dramatic decline in air pollution levels. By the end of the 19th century, railway technology was sufficiently advanced to allow the population to disperse into areas surrounding the city. As a result, pollution levels decreased in the most adversely effected regions.</p>
+             <p>These changes can be seen in the visualisation below where there is a sharp decline in PM concentration beginning in the late 1800s. The EKC assumes that countries experiencing high levels of air pollution today will inevitably follow a similar trend as they make further economic advancements.</p>
+         
+        </div>
+
+        <!-- Line graph drawn inside this DIV -->
+        <div class= "lineBox">
+            <div id = "myLine" style="width:900px; height:650px;"></div>
+        </div>
+    
+        <br><br>
+
+        <div>
+            <!-- Section 3 -->
+                <h3>Air pollution- the global scale</h3>
+
+                <p>This map demonstrates the concentration of PM2.5 particles in each country, which can be compared to their GDP per capita. Evidently, there is a correlation between these variables- countries with low incomes including Kenya and countries with high incomes such as Norway have a relatively low concentration of PM2.5. In contrast, air pollution is the heaviest in medium-income countries currently experiencing industrialisation, such as India and Egypt.</p>
+                <p>As many low income countries are mostly agrarian and have limited industry, Kuznet's curve is reflected in the lower levels of air pollution in these countries. However, it is worth noting that being in close proximity to developing industrial countries can have an impact on low-income nations, which may experience the air pollution created by their neighbours.</p>
+         
+        </div>
+
+
+
+        <!-- Choropleth drawn inside this DIV -->
+        <div id= "buttonDiv">
+            <button type="submit" class="button" onclick = "replace()">PM2.5 Concentration</button>
+            <button type="submit" class="button" onclick = "replaceAgain()">GDP Per Capita</button>
+        </div>
+        
+
+        <div id = "myAir" style="width:800px; height:500px; margin:0 auto;"></div>
+        <div id = "myGdp" display="none;" style="width:800px; height:500px; margin:0 auto; display: none;"></div>
+
+        <br class="change" data-color="white"><br>
+
+        <div id="sectionFour">
+            <!-- Section 4 -->
+            <h3>Kuznets Curve and PM2.5 density: Visualised</h3>
+
+            <p>The graphic below puts the Environmental Kuznets Curve into practice through visualisations of magnified PM2.5 particles. Five countries (Kenya, Afghanistan, India, China, and Norway) have been selected from different points on the curve to demonstrate the correlation between GDP and air pollution- and how air pollution levels get worse before they get better.</p>
+            <br class="change" data-color="white">
+        </div>
+
+
+
+     <!-- Particle visualisations drawn inside these DIVs -->
+     <div id="wrapper">
+        <div id="kenyaText" class="change" data-color="#e1fac0">
+            <h4 class="change" data-color="#e1fac0">Kenya</h4>
+            <h5>GDP per capita: $1838 <br>
+            PM2.5 per cubic metre: 28μg/m3</h5>
+            <a>Although PM2.5 concentration is relatively low in Kenya, projections suggest that air pollution in Sub-Saharan African countries will increase drastically over the coming decades (Kirago et. al., 2022), with industrial emissions acting as key pollutant sources in cities such as Nairobi.</a>
+        </div>
+
+        <div id="particleKenya">
+            <model-viewer src="assets/kenya.gltf" alt="PM2.5 Particles" auto-rotate camera-controls ar ios-src="assets/kenya.gltf"></model-viewer>
+        </div>
+    </div>
+
+
+    <div id="wrapper">
+        <div id="afghanistanText" class="change" data-color="#fff0c4">
+            <h4>Afghanistan</h4>
+            <h5>GDP per capita: $2065 <br>
+            PM2.5 per cubic metre: 57μg/m3</h5>
+            <a>In recent years, doctors at the Indira Gandhi Children’s Hospital in Kabul have seen an alarming increase in the number of patients with pollution-related illnesses (Faiez, 2019) due to increased industrial activity, as well as the burning of low quality fuel and household waste during colder months. </a>
+        </div>
+
+         <div id="particleAfghanistan">
+            <model-viewer src="assets/afghanistan.gltf" alt="PM2.5 Particles" auto-rotate camera-controls ar ios-src="assets/afghanistan.gltf"></model-viewer>
+        </div>
+    </div>
+
+
+    <div id="wrapper">
+        <div id="indiaText" class="change" data-color="ffd8c4">
+            <h4>India</h4>
+            <h5>GDP per capita: $6714 <br>
+            PM2.5 per cubic metre: 168μg/m3</h5>
+            <a>Emissions from industry and vehicles, as well as heavy reliance on fossil fuels contribute to the dense particulate matter present in India’s air. 22 out of the 30 most polluted cities in the world are in India (IQ Air, 2020), with 2 million deaths being attributed to the pollution epidemic every year.</a>
+        </div>
+
+        <div id="particleIndia">
+            <model-viewer src="assets/india.gltf" alt="PM2.5 Particles" auto-rotate camera-controls ar ios-src="assets/india.gltf"></model-viewer>
+        </div>
+    </div>
+
+
+    <div id="wrapper">
+        <div id="chinaText" class="change" data-color="#fff0c4">
+            <h4>China</h4>
+            <h5>GDP per capita: $16092 <br>
+            PM2.5 per cubic metre: 53μg/m3</h5>
+            <a>Particulate matter in China has dropped by 33% since peaking in 2013, with annual deaths from air pollution-related morbidities now below 1990 levels. This can be attributed to the banning of coal heating in favour of natural gas, as well as the promotion of clean energy nationwide (Fuller, 2020).</a>
+        </div>
+        
+        <div id="particleChina">
+            <model-viewer src="assets/china.gltf" alt="PM2.5 Particles" auto-rotate camera-controls ar ios-src="assets/china.gltf"></model-viewer>
+        </div>
+    </div>
+
+
+    <div id="wrapper">
+        <div id="norwayText" class="change" data-color="#e1fac0">
+            <h4>Norway</h4>
+            <h5>GDP per capita: $64453 <br>
+            PM2.5 per cubic metre: 7μg/m3</h5>
+            <a>PM2.5 concentration in Norway has declined over the last decade, and is expected to decline even further in the years coming due to "measures that have been implemented for vehicle emissions, studded tyre duty, increased dust binding and road cleaning" (Norwegian Environmental Agency, 2014).</a>
+        </div>
+
+        <div id="particleNorway">
+            <model-viewer src="assets/norway.gltf" alt="PM2.5 Particles" auto-rotate camera-controls ar ios-src="assets/norway.gltf"></model-viewer>
+        </div>
+    </div>
+
+   <script src = "text.js"></script>
+   </body>
+</html>

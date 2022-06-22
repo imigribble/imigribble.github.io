@@ -1,0 +1,338 @@
+  
+  html, body {
+    width: 100%;
+    height: 100%;
+    
+  }
+  
+  /* Header and text styling */
+  h1 {
+    padding-top: 200px;
+    padding-bottom: 6px;
+    margin: 0px 375px 15px;
+
+    text-align: left;
+    font-family: 'Henriette', Medium;
+    font-size: 4rem;
+  }
+  
+  h2 {
+    padding-top: 0px;
+    padding-bottom: 130px;
+    margin: 0px 375px 15px;
+
+    text-align: left;
+    font-family: 'Henriette', Bold;
+    font-style: italic;
+    font-size: 1.6rem;
+  }
+
+  h3 {
+    padding-top: 50px;
+    padding-bottom: 6px;
+    margin: 0px 375px 15px;
+
+    text-align: left;
+    font-family: 'Henriette Medium';
+    font-size: 1.5rem;
+  }
+
+  p {
+    margin: 0px 375px 15px;
+
+    text-align: left;
+    font-family: 'ITC Cheltenham Std Light';
+    font-size: 1.25rem;
+    line-height: 1.85rem;
+  }
+
+
+  /* Graph divs */
+  .barBox {
+    width: 850px;
+    height: 450px;
+    margin: 0 auto;
+  }
+
+  .scatterBox {
+    width: 900px;
+    height: 650px;
+    margin: 0 auto;
+  }
+
+  .airBox {
+    width: 800px;
+    height: 500px;
+  }
+
+  .gdpBox {
+    width: 800px;
+    height: 500px;
+    display: none;
+  }
+
+  .lineBox {
+    width: 900px;
+    height: 650px;
+    margin: 0 auto;
+  }
+
+
+  /* Image */
+  .figure {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+
+  /* Image- India pollution */
+  .indiaFog {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+  }
+
+  /* Image- London pollution */
+  .londonFog {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+  }
+  
+
+  /* Caption text for images */
+  figcaption {
+    font-family: 'Henriette', Medium;
+    font-style: italic;
+    padding: 8px;
+    text-align: center;
+  }
+
+
+  /* Button to toggle between GDP and PM2.5 levels */
+  #buttonDiv{
+    display: flex;
+    justify-content: center;
+    margin-top: 65px;
+  }
+
+  .button {
+    background-color:#e2e2e2;
+    color: rgb(0, 0, 0);
+    border:none; 
+    margin: 8px;
+    border-radius: 10px; 
+    padding: 15px;
+    min-height: 20px; 
+    min-width: 100px;
+    font-family: 'Henriette', Medium;
+    justify-content: center;
+    box-shadow: 0 4px 4px 0 rgba(174, 174, 174, 0.2), 0 3px 5px 0 rgba(0, 0, 0, 0.1);
+  }
+
+  .button:hover {
+    background-color:#f1f1f1;
+    transition: .5s;
+}
+  
+
+
+/* Setting up text for the next divs */
+  a {
+    text-align: left;
+    font-family: 'ITC Cheltenham Std Light';
+    font-size: 1.1rem;
+    line-height: 1.7rem;
+  }
+
+  h4 {
+    text-align: left;
+    font-family: 'Henriette Medium';
+    font-size: 1.4rem;
+  }
+
+  h5 {
+    font-family: 'Henriette Regular Italic';
+    font-style: italic;
+    font-size: 1.25rem;
+    padding: 0;
+  }
+
+  #sectionFour {
+    margin-bottom: 100px;
+}
+
+
+/* Styling Kenya div */
+#wrapper {
+  display: flex;
+  position:relative;
+  margin: auto;
+}
+
+#kenyaText {
+  width: 350px;
+  margin-left: 250px;
+  margin-top: 150px;
+  right: 0;
+  margin-bottom: 150px;
+  padding: 25px;
+  padding-bottom: 0px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+#particleKenya {
+  height: 600px;
+  width: 600px;
+  left: 75px;
+  margin-top: 0px;
+  margin-bottom: 100px;
+}
+
+#particleKenya model-viewer {
+  height: 600px;
+  width: 600px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  left: 75px;
+  border: none;
+}
+
+/* styling Afghanistan div */
+#wrapper {
+  display: flex;
+  position:relative;
+  margin: auto;
+}
+
+#afghanistanText {
+  width: 350px;
+  margin-left: 250px;
+  margin-top: 250px;
+  right: 0;
+  padding: 25px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+#particleAfghanistan {
+  height: 600px;
+  width: 600px;
+  left: 75px;
+  margin-top: 0px;
+}
+
+#particleAfghanistan model-viewer {
+  height: 600px;
+  width: 600px;
+  margin-top: 150px;
+  left: 75px;
+  border: none;
+}
+
+
+
+/* styling India div */
+#wrapper {
+  display: flex;
+  position:relative;
+  margin: auto;
+}
+
+#indiaText {
+  width: 350px;
+  margin-left: 250px;
+  margin-top: 350px;
+  right: 0;
+  padding: 25px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+#particleIndia {
+  height: 600px;
+  width: 600px;
+  left: 75px;
+  margin-top: 0px;
+}
+
+#particleIndia model-viewer {
+  height: 600px;
+  width: 600px;
+  margin-top: 250px;
+  left: 75px;
+  border: none;
+}
+
+/* styling China div */
+#wrapper {
+  display: flex;
+  position:relative;
+  margin: auto;
+}
+
+#chinaText {
+  width: 350px;
+  margin-left: 250px;
+  margin-top: 350px;
+  right: 0;
+  padding: 25px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+#particleChina {
+  height: 600px;
+  width: 600px;
+  left: 75px;
+  margin-top: 0px;
+}
+
+#particleChina model-viewer {
+  height: 600px;
+  width: 600px;
+  margin-top: 225px;
+  left: 75px;
+  border: none;
+}
+
+/* styling Norway div */
+#wrapper {
+  display: flex;
+  position:relative;
+  margin: auto;
+}
+
+#norwayText {
+  width: 350px;
+  margin-left: 250px;
+  margin-top: 350px;
+  right: 0;
+  margin-bottom: 150px;
+  padding: 25px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+#particleNorway {
+  height: 600px;
+  width: 600px;
+  left: 75px;
+  margin-top: 0px;
+}
+
+#particleNorway model-viewer {
+  height: 600px;
+  width: 600px;
+  margin-top: 250px;
+  left: 75px;
+  border: none;
+}
+
+
+
+/* Setting fade transition and default settings */
+body {
+  transition: .5s background-color;
+ }
+ 
+ .change {
+   background-color: white;
+   width: 50%;
+}

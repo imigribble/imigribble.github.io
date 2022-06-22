@@ -1,0 +1,247 @@
+﻿ISO-3,Country,SMALL_SUBNATIONAL_REGION,Small subnational region,LARGE_SUBNATIONAL_REGION,Large subnational region,VAR,Variable,YEA,Year,Unit Code,Unit,PowerCode Code,PowerCode,Value
+AUS,Australia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,6.7487
+AUT,Austria,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,12.22494
+BEL,Belgium,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,12.7263
+CAN,Canada,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,7.09026
+CZE,Czech Republic,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,16.96525
+DNK,Denmark,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,9.78493
+FIN,Finland,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,5.63829
+FRA,France,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,11.36678
+DEU,Germany,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,11.92769
+GRC,Greece,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,14.3205
+HUN,Hungary,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,16.59597
+ISL,Iceland,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,6.37407
+IRL,Ireland,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,7.84751
+ITA,Italy,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,15.84764
+JPN,Japan,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,13.64744
+KOR,Korea,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,27.44749
+LUX,Luxembourg,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,10.0889
+MEX,Mexico,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,20.10763
+NLD,Netherlands,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,12.03303
+NZL,New Zealand,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,6.05027
+NOR,Norway,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,6.66793
+POL,Poland,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,22.76563
+PRT,Portugal,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,8.1761
+SVK,Slovak Republic,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,18.52632
+ESP,Spain,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,9.99323
+SWE,Sweden,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,5.72135
+CHE,Switzerland,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,10.04367
+TUR,Turkey,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,26.85069
+GBR,United Kingdom,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,10.02183
+USA,United States,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,7.67611
+G7M,G7,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,10.27089
+AFG,Afghanistan,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,52.99812
+ALB,Albania,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,18.45981
+DZA,Algeria,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,32.91557
+ASM,American Samoa,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,6.35038
+AND,Andorra,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,9.51265
+AGO,Angola,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,28.02152
+AIA,Anguilla,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,8.72825
+ATG,Antigua and Barbuda,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,17.62028
+ARG,Argentina,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,13.84671
+ARM,Armenia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,34.24106
+ABW,Aruba,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,8.5267
+AZE,Azerbaijan,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,26.26906
+BHS,Bahamas,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,15.2567
+BHR,Bahrain,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,58.66163
+BGD,Bangladesh,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,63.54533
+BRB,Barbados,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,21.04115
+BLR,Belarus,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,16.57188
+BLZ,Belize,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,20.45305
+BEN,Benin,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,46.23708
+BMU,Bermuda,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,7.08401
+BTN,Bhutan,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,40.3737
+BOL,Bolivia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,27.48764
+BIH,Bosnia and Herzegovina,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,30.28742
+BWA,Botswana,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,25.32941
+BRA,Brazil,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,11.66552
+VGB,British Virgin Islands,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,8.87929
+BRN,Brunei Darussalam,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,7.72029
+BGR,Bulgaria,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,19.92702
+BFA,Burkina Faso,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,53.68486
+BDI,Burundi,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,33.32371
+KHM,Cambodia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,22.13588
+CMR,Cameroon,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,66.15428
+CPV,Cabo Verde,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,50.88585
+CYM,Cayman Islands,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,7.83108
+CAF,Central African Republic,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,46.89668
+TCD,Chad,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,59.42594
+CHL,Chile,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,23.68317
+CHN,China (People's Republic of),TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,47.72902
+COL,Colombia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,22.5254
+COM,Comoros,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,17.0261
+COG,Congo,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,39.25027
+COK,Cook Islands,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,6.33352
+CRI,Costa Rica,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,17.43615
+CIV,Côte d'Ivoire,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,55.9251
+HRV,Croatia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,18.22689
+CUB,Cuba,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,17.95487
+CYP,Cyprus,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,15.7934
+PRK,Democratic People's Republic of Korea,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,45.18309
+COD,Democratic Republic of the Congo,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,36.27272
+DJI,Djibouti,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,43.98848
+DMA,Dominica,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,18.39629
+DOM,Dominican Republic,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,18.14536
+ECU,Ecuador,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,20.60601
+EGY,Egypt,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,67.91512
+SLV,El Salvador,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,22.34945
+GNQ,Equatorial Guinea,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,47.03413
+ERI,Eritrea,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,44.77914
+EST,Estonia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,5.94962
+ETH,Ethiopia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,33.83347
+FRO,Faeroe Islands,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,7.35377
+FLK,Falkland Islands (Malvinas),TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,7.02359
+FJI,Fiji,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,10.85933
+PYF,French Polynesia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,6.62968
+GAB,Gabon,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,37.43801
+GMB,Gambia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,58.2145
+GEO,Georgia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,18.24743
+GHA,Ghana,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,54.4758
+GIB,Gibraltar,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,13.1925
+GRL,Greenland,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,6.47841
+GRD,Grenada,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,21.38449
+GUM,Guam,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,8.24133
+GTM,Guatemala,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,27.81365
+GIN,Guinea,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,52.82294
+GNB,Guinea-Bissau,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,54.01773
+GUY,Guyana,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,20.40551
+HTI,Haiti,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,19.32223
+VAT,Holy See,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,17.8034
+HND,Honduras,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,22.92625
+HKG,"Hong Kong, China",TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,23.9051
+IND,India,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,83.30377
+IDN,Indonesia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,19.67376
+IRN,Iran,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,39.00154
+IRQ,Iraq,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,49.61657
+ISR,Israel,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,19.42415
+JAM,Jamaica,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,16.24505
+JOR,Jordan,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,30.12999
+KAZ,Kazakhstan,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,21.045
+KEN,Kenya,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,21.53547
+KIR,Kiribati,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,9.62379
+KWT,Kuwait,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,62.67314
+KGZ,Kyrgyzstan,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,24.60486
+LAO,Lao People's Democratic Republic,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,20.76857
+LVA,Latvia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,12.7076
+LBN,Lebanon,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,29.04762
+LSO,Lesotho,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,27.79676
+LBR,Liberia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,50.63222
+LBY,Libya,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,35.98622
+LIE,Liechtenstein,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,10.1492
+LTU,Lithuania,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,10.4691
+MKD,North Macedonia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,32.6682
+MDG,Madagascar,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,17.8598
+MWI,Malawi,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,22.33194
+MYS,Malaysia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,16.55023
+MDV,Maldives,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,10.89224
+MLI,Mali,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,60.6721
+MLT,Malta,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,13.0654
+MHL,Marshall Islands,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,9.34688
+MRT,Mauritania,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,66.54714
+MUS,Mauritius,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,15.26528
+FSM,Micronesia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,10.4871
+MDA,Moldova,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,13.95982
+MCO,Monaco,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,11.6987
+MNG,Mongolia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,42.28819
+MSR,Montserrat,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,9.18139
+MAR,Morocco,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,34.99173
+MOZ,Mozambique,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,20.71532
+MMR,Myanmar,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,29.91018
+NAM,Namibia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,24.23679
+NRU,Nauru,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,5.85717
+NPL,Nepal,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,82.82545
+ANT,Netherlands Antilles,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,8.75029
+NCL,New Caledonia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,7.27167
+NIC,Nicaragua,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,20.53888
+NER,Niger,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,80.07251
+NGA,Nigeria,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,70.49678
+NIU,Niue,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,6.83692
+NFK,Norfolk Island,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,6.10957
+MNP,Northern Mariana Islands,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,8.17446
+PSE,Palestinian Authority or West Bank and Gaza Strip,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,32.55579
+OMN,Oman,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,44.23674
+PAK,Pakistan,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,63.86198
+PLW,Palau,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,6.88113
+PAN,Panama,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,13.22791
+PNG,Papua New Guinea,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,16.04683
+PRY,Paraguay,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,12.84044
+PER,Peru,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,31.0593
+PHL,Philippines,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,18.79358
+PCN,Pitcairn,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,6.31587
+PRI,Puerto Rico,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,6.90966
+QAT,Qatar,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,77.11195
+ROU,Romania,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,15.06436
+RUS,Russia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,11.77739
+RWA,Rwanda,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,36.22432
+SHN,Saint Helena,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,8.02421
+KNA,Saint Kitts and Nevis,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,8.85081
+LCA,Saint Lucia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,20.83464
+SPM,Saint Pierre and Miquelon,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,8.87548
+VCT,Saint Vincent and the Grenadines,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,21.09771
+WSM,Samoa,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,10.8332
+SMR,San Marino,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,9.99181
+STP,Sao Tome and Principe,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,31.32731
+SAU,Saudi Arabia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,64.06007
+SEN,Senegal,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,60.17498
+SYC,Seychelles,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,15.50187
+SLE,Sierra Leone,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,51.27564
+SGP,Singapore,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,19.0006
+SVN,Slovenia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,17.06109
+SLB,Solomon Islands,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,12.8568
+SOM,Somalia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,30.14888
+ZAF,South Africa,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,28.32529
+LKA,Sri Lanka,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,19.96277
+SDN,Sudan,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,56.03598
+SUR,Suriname,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,21.62903
+SWZ,Eswatini,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,23.36699
+SYR,Syrian Arab Republic,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,31.33487
+TWN,Chinese Taipei,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,23.5335
+TJK,Tajikistan,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,39.90629
+TZA,Tanzania,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,24.60327
+THA,Thailand,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,27.32291
+TLS,Timor-Leste,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,15.75327
+TGO,Togo,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,46.12588
+TKL,Tokelau,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,6.84874
+TON,Tonga,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,10.5611
+TTO,Trinidad and Tobago,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,22.07242
+TUN,Tunisia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,30.55062
+TKM,Turkmenistan,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,25.30906
+TCA,Turks and Caicos Islands,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,7.59241
+TUV,Tuvalu,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,6.11212
+UGA,Uganda,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,35.2285
+UKR,Ukraine,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,14.70064
+ARE,United Arab Emirates,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,43.0844
+URY,Uruguay,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,9.57094
+UZB,Uzbekistan,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,36.352
+VUT,Vanuatu,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,12.7414
+VEN,Venezuela,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,22.21524
+VNM,Viet Nam,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,20.19471
+VIR,United States Virgin Islands,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,9.23292
+WLF,Wallis and Futuna,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,6.57847
+YEM,Yemen,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,44.64506
+ZMB,Zambia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,25.92371
+ZWE,Zimbabwe,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,20.84664
+ESH,Western Sahara,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,46.43391
+WLD,World,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,42.53137
+MAC,"Macau, China",TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,28.4314
+CXR,Christmas Islands,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,8.05843
+CCK,Cocos (Keeling) Islands,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,7.87456
+ASEAN,ASEAN,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,21.22272
+SRB,Serbia,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,25.50415
+MNE,Montenegro,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,22.3224
+GGY,Guernsey,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,9.56168
+IMN,Isle of Man,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,7.63994
+JEY,Jersey,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,9.62534
+G20,G20,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,43.64692
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,55.30773
+SSD,South Sudan ,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,38.67224
+EU28,European Union (28 countries),TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,13.03459
+OECD,OECD - Total,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,13.92701
+OECDE,OECD - Europe,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,14.64343
+EA19,Euro area (19 countries),TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,12.20832
+EU27_2020,European Union – 27 countries (from 01/02/2020),TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,13.47546
+OECDAO,OECD Asia Oceania,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,16.17214
+OECDAM,OECD America,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,12.32435
+EECCA,"Eastern Europe, Caucasus and Central Asia",TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,17.75293
+LAC,Latin America and Caribbean,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,17.84646
+MENA,Middle East and North Africa,TOTAL,Total,TOTAL,Total,PWM_EX,Mean population exposure to PM2.5,2019,2019,MICRO_M3,Micrograms per cubic metre,0,Units,46.75412

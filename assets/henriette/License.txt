@@ -1,0 +1,125 @@
+
+Typejockeys/Fontspring End User Licensing Agreement v1.00
+
+This license can also be found at this permalink: https://www.fontsquirrel.com/license/henriette
+
+Typejockeys End User Licensing Agreement
+
+
+By downloading Typejockeys font software or opening the packaging containing the font files you agree  to the following terms:
+
+
+1. License and Usage Rights
+
+1.1. Typejockeys grants you a non exclusive right to use the font software for your own personal or business purposes according to this Agreement. You (End User) have not purchased the ownership right to this font software, but rather a license to use it on a limited basis.
+
+1.2. The font software is licensed for use at one (1) single geographic location with a maximum of five (5) devices. A device is defined as a computer, printer, character generator, server or any other machine that uses font data to rasterize letterforms. A single geographic location is in particular the site of your place. The geographic restriction does not apply to portable computers if they are owned by you. If you need font software to be used on more than five devices you need to purchase and extended license.
+
+1.3. You may install the font software on single file server for use on a single Local Area Network (LAN) only when the use of such font software is limited to the devices that are part of the licensed unit of which the server is a part.
+
+1.4. The font software must not be installed or used on a server that can be accessed via the Internet or other external network system (a system other than a LAN) by Workstations which are not part of a licensed unit.
+
+1.5. You may take a digitized copy of the font software used in a particular document to a commercial printer or service bureau for outputting this particular document (this document may be edited by the printer or service bureau). In the event of use of the font software for other purposes, the printer or service bureau must purchase its own font software licenses. You are responsible that no copies of the font software remain at the printer or service bureau after the job is finished.
+
+1.6. You may make backup copies of the font software for archival purposes only, provided that you retain exclusive custody and control over such copies.
+
+1.7. Embedding of the font software into electronic documents or internet pages is only permitted under the absolute assurance that a third party cannot use the font software to edit or create a new document (Read Only). It must be ensured that the font software cannot be fully or partially extracted from said documents. For any further embedding of the font software is desired a extended license must be purchased.
+
+1.8. An extended license is required to use Typejockeys typefaces in logo design,
+if the annual gross revenue of the product/company it is used for exceeds 5 million euros.
+
+1.9. You must not rent, lease, sublicense, distribute, disseminate, give away or lend the font software to third parties.
+
+1.10. You may permanently transfer the fonts provided that the recipient  accepts the terms of this Agreement, that you trash all your copies of the font software, and that you notify Typejockeys of the transfer.
+
+1.11. You may modify typesetting produced by the font software in any way you see fit, but only for your own personal or internal business use, but you may not distribute, or transfer your adaptations without written permission from Typejockeys. This means (A) you may not make a customized version of the font for use by your clients, and (B) you may not adapt, or merge
+the fonts to create hybrid fonts for resale. Each workstation where a modified font is installed shall be counted as one of your permitted number of devices. Any modification remains bound to the original copyright terms.
+
+1.12. You are responsible for securing the software and making sure that unlicensed copies do not leave your possession.
+
+
+2. Copyright
+
+2.1. The font software and documentation is protected under the laws of the Austrian and other international treaty provisions. Typejockeys reserves all copyrights, trademarks and any other form of international property rights in and to the font software.
+
+2.2. You agree to credit Typejockeys as the trademark and copyright owner of the font software and list the font names, wherever and whenever design, production, or any other credits are shown.
+
+2.3. This agreement will be governed by the laws in force in Austria.
+
+
+3. Warranty and Liabilities
+
+3.1. Typejockeys warrants that the font software will perform substantially in accordance with the documentation for the forty-nine (49) day period following your receipt of the software. To make a warranty claim, you must return the font software to the location from which you obtained it along with a copy of the sales receipt within such forty-nine (49) day period. The distributor will choose to either replace demonstrably defective fonts or reimburse the license fee.
+
+3.2. Neither warranty nor technical support apply to any font software converted or modified by the user.
+
+3.3. Typejockeys shall in no event be liable to the licensed user or any other third party for any direct, indirect, consequential, or incidental damages. Under no circumstances shall Typejockeys’ liability exceed the replacement cost of the software.
+
+3.4. Typejockeys has the right terminate your license immediately if you fail to comply with any term of this agreement. Upon termination, you must destroy the original and any copies of the font software and documentation.
+
+3.5. You are aware that software is never completely error-free and that the font software may therefore contain errors which can affect functionality and operation.
+
+
+Thank you for purchasing Typejockeys font software. Have fun and enjoy.
+
+© Typejockeys 2016
+www.typejockeys.com
+——————————————————————————————————————————————————-
+
+The Fontspring Webfont End User License Agreement
+Version 1.6.0 - March 13, 2014
+
+By downloading, installing and/or embedding font software (“Webfont”) offered by Fontspring or its distributors, you (“Licensee”) agree to be bound by the following terms and conditions of this End User Licensing Agreement (“EULA”):
+
+1. Right Granted
+Fontspring grants Licensee a perpetual, worldwide, non-exclusive and non-transferrable license to link the Webfont to Websites using the @font-face selector in CSS files.
+
+2. Requirements and Restrictions
+Licensee agrees to abide by the following requirements and restrictions:
+a. Licensee must use the Webfont provided by Fontspring under this EULA. Licensee may not link to the full, CFF OpenType or TrueType font designed for desktop installation.
+b. Licensee must include the entire commented header in the provided CSS file.
+c. The total traffic of the Website(s), measured in pageviews per month, may be no greater than the number of pageviews specified in the Receipt.
+d. Licensee may only install the Webfont on Websites that it owns or controls.
+e. Licensee may embed Webfont in reports generated by the Website(s), provided that Licensee does not sell the reports for profit.
+
+3. Provision to Third Parties
+Licensee may temporarily provide the Webfont to a website developer, agent or independent contractor, who is working on behalf of the Licensee, ONLY IF the developer, agent or independent contractor (1) agrees in writing to use the Font exclusively for Licensee’s work, according to the terms of this EULA, and (2) retains no copies of the Font upon completion of the work.
+
+Licensee may not otherwise distribute the Webfont to third parties or make the Webfont publicly accessible or available except by embedding or linking in accordance with this EULA.
+
+4. Term
+This EULA grants a perpetual license for the rights set forth in Paragraph 1 unless and until the EULA terminates under Paragraph 8.  Fontspring will not charge additional fees post purchase, annually or otherwise.
+
+5. Other Usage
+Licenses for desktop use, computer applications and games, installable interactive books, software, mobile applications and games, Ebooks and Epubs, product creation websites, website template distribution, website templates, and other uses not allowed by this EULA may be available for an additional fee. Contact Fontspring at support@fontspring.com for more information.
+
+6. Modifications
+Licensee may not modify the Webfont or create derivative works based upon the Webfont without prior written consent from Fontspring or the owning foundry EXCEPT THAT Licensee may generate files necessary for embedding or linking in accordance with this EULA.
+
+7. Copyright
+The Webfont is protected by copyright law.  The Foundry is the sole, exclusive owner of all intellectual property rights, including rights under copyright and trademark law.  Licensee agrees not to use the Webfont in any manner that infringes the intellectual property rights of the Foundry or violates the terms of this EULA.  Licensee will be held legally responsible, and indemnifies Fontspring, for any infringements on the foundry’s rights caused by failure to abide by the terms of this EULA.
+
+8. Termination
+This EULA is effective until terminated. If Licensee fails to comply with any term of this EULA, Fontspring may terminate the EULA with 30 days notice.  This EULA will terminate automatically 30 days after the issuance of such notice.
+
+9. Disclaimer and Limited Warranty
+Fontspring warrants the Product to be free from defects in materials and workmanship under normal use for a period of twenty one (21) days from the date of delivery as shown on Receipt. Fontspring’s entire liability, and Licensee’s exclusive remedy, for a defective product shall be, at Fontspring’s election, either (1) return of purchase price or (2) replacement of any such product that is returned to Fontspring with a copy of the Receipt. Fontspring shall have no responsibility to replace the product or refund the purchase price if failure results from accident, abuse or misapplication, or if any product is lost or damaged due to theft, fire, or negligence. Any replacement product will be warranted for twenty one (21) days. This warranty gives Licensee specific legal rights. Licensee may have other rights, which vary from state to state.
+
+EXCEPT AS EXPRESSLY PROVIDED ABOVE, THE PRODUCT, IS PROVIDED “AS IS”. FONTSPRING MAKES NO WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+The entire risk as to the quality and performance of the Product rests upon Licensee. Neither Fontspring nor the Foundry warrants that the functions contained in the Product will meet Licensee’s requirements or that the operation of the software will be uninterrupted or error free.
+
+FONTSPRING SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, OR INCIDENTAL DAMAGES (INCLUDING DAMAGES FROM LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, AND THE LIKE) ARISING OUT OF THE USE OF OR INABILITY TO USE THE PRODUCT EVEN IF FONTSPRING OR THE FOUNDRY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+Because some states do not allow the exclusion or limitation of liability for consequential or incidental damages, the above limitation may not apply to Licensee.
+
+10. Governing Law
+This EULA is governed by the laws of the United States of America and the State of Delaware.
+
+11.  Entire Agreement
+This EULA, in conjunction with the receipt (“Receipt”) that accompanies each Font licensed from Fontspring or its distributors, constitutes the entire agreement between Fontspring and Licensee.
+
+12.  Modification
+The Parties may modify or amend this EULA in writing.
+
+13. Waiver. The waiver of one breach or default hereunder shall not constitute the waiver of any subsequent breach or default.
